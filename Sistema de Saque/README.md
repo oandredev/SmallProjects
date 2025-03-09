@@ -1,10 +1,10 @@
-# SISTEMA DE SAQUE
+# SISTEMA DE SAQUE 
 
 PT - BR
 
 Sistema de Saque
 
-Código que avalia a quantidade de notas necessárias para um saque  de dinheiro usando o menor número de notas
+Código que avalia a quantidade de notas necessárias para um saque de dinheiro usando o menor número de notas
 
 -
 
