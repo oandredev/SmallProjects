@@ -1,4 +1,4 @@
-# SISTEMA DE SAQUE ()
+# SISTEMA DE SAQUE
 
 PT - BR
 
